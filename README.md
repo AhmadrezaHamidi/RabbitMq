@@ -1,4 +1,4 @@
-# ]Project Name: "RabbitMq"
+# Project Name: "RabbitMq"
 Description
 "Afarinesh" is a social networking application designed to promote user interaction and engagement. It allows users to create posts, comment on posts, and like posts. The application aims to provide a platform for users to connect, share ideas, and communicate in real-time.
 
